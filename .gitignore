@@ -1,0 +1,6 @@
+runtime/
+local-data/
+settings.json
+authorization.png
+*.zip
+*.tmp
